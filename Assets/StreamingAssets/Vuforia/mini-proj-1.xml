@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="fig30_1" size="5.000000 4.769976" />
+    <ImageTarget name="fig29_1" size="5.000000 2.326499" />
+    <ImageTarget name="fig28_1" size="5.000000 3.126065" />
+    <ImageTarget name="fig27_1" size="5.000000 1.766257" />
+    <ImageTarget name="fig26_1" size="5.000000 3.057395" />
+    <ImageTarget name="fig25_1" size="5.000000 2.930693" />
+    <ImageTarget name="fig24_1" size="5.000000 3.196721" />
+    <ImageTarget name="fig23_1" size="5.000000 3.949881" />
+    <ImageTarget name="fig20_1" size="5.000000 3.732228" />
+    <ImageTarget name="fig19_1" size="5.000000 4.892473" />
+    <ImageTarget name="fig18_1" size="5.000000 4.911661" />
+    <ImageTarget name="fig17_1" size="5.000000 7.997238" />
+    <ImageTarget name="fig16_1" size="5.000000 6.431925" />
+    <ImageTarget name="fig15_1" size="5.000000 4.151235" />
+    <ImageTarget name="fig14_1" size="5.000000 5.503597" />
+    <ImageTarget name="fig13_1" size="5.000000 6.653944" />
+    <ImageTarget name="fig11_1" size="5.000000 2.006173" />
+    <ImageTarget name="trans2_1" size="2.000000 5.202614" />
+    <ImageTarget name="sess2_1" size="2.000000 0.841958" />
+    <ImageTarget name="present2_1" size="2.000000 3.903485" />
+    <ImageTarget name="phy2_1" size="2.000000 0.565771" />
+    <ImageTarget name="osi2_1" size="2.000000 2.218527" />
+    <ImageTarget name="net2_1" size="2.000000 6.248000" />
+    <ImageTarget name="data2_1" size="2.000000 5.478599" />
+    <ImageTarget name="app2_1" size="2.000000 3.559020" />
+    <ImageTarget name="transport_1" size="5.000000 2.007505" />
+    <ImageTarget name="session_1" size="5.000000 2.214286" />
+    <ImageTarget name="presentation_1" size="3.000000 1.400631" />
+    <ImageTarget name="phy_1" size="3.000000 0.626250" />
+    <ImageTarget name="osi_1" size="3.000000 3.106383" />
+    <ImageTarget name="net_1" size="3.000000 1.001439" />
+    <ImageTarget name="datalink_1" size="3.000000 1.029748" />
+    <ImageTarget name="application_1" size="3.000000 1.708215" />
+    <ImageTarget name="fig2" size="8.000000 8.878049" />
+    <ImageTarget name="fig10" size="8.000000 13.172775" />
+    <ImageTarget name="fig9" size="8.000000 18.821918" />
+    <ImageTarget name="fig8" size="8.000000 15.885057" />
+    <ImageTarget name="fig7" size="8.000000 19.772358" />
+    <ImageTarget name="fig6" size="8.000000 23.239544" />
+    <ImageTarget name="fig4" size="8.000000 20.886877" />
+    <ImageTarget name="fig3" size="8.000000 27.423077" />
+  </Tracking>
+</QCARConfig>
